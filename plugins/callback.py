@@ -222,7 +222,7 @@ async def cb_handler(client, query):
                    ],
                    [
                        InlineKeyboardButton(GROUP, url=AA),
-                       InlineKeyboardButton(UPDATE CHANNEL, url=CHANNEL_LINK)
+                       InlineKeyboardButton(CHANNEL, url=CHANNEL_LINK)
                    ],
                    [
                        InlineKeyboardButton('ℹ️ Help', callback_data='help'),
